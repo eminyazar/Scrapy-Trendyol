@@ -1,0 +1,2 @@
+# Scrapy-Trendyol
+ Web Scraping
